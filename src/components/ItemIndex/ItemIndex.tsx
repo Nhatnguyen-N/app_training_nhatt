@@ -35,6 +35,7 @@ const styles = StyleSheet.create({
     justifyContent: "space-between",
     padding: 10,
     alignItems: "center",
+    marginVertical: 10,
   },
   text: {
     fontFamily: FONTS.rubikMedium,
