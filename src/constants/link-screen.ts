@@ -11,4 +11,14 @@ export const ScreenList: ScreenType[] = [
     name: "Animation Tutorial",
     link: '/(animation)/animation-tutorial',
   },
+  {
+    id: 3,
+    name: "Animation Profile Card",
+    link: '/(animation)/animation-profile-card',
+  },
+  {
+    id: 4,
+    name: "Animation Feedback",
+    link: '/(animation)/feedback-animation',
+  },
 ]
