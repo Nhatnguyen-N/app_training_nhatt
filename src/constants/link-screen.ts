@@ -21,4 +21,9 @@ export const ScreenList: ScreenType[] = [
     name: "Animation Feedback",
     link: '/(animation)/feedback-animation',
   },
+  {
+    id: 5,
+    name: "Fitness UI",
+    link: '/(ui)/fitnessUI',
+  }
 ]
